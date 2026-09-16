@@ -5,7 +5,7 @@ Este repositório reúne mais de 56 exercícios, desafios e notas de estudo dese
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Python 3.x**
+* **Python 3.10.11**
 * **PyCharm IDE**
 * **Git & GitHub**
 
